@@ -1,0 +1,5 @@
+Bloc note pour le TP2 du cours de pseudo-qualité
+
+Site de départ elasticsearch on docker
+https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html
+
